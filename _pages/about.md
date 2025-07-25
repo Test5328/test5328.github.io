@@ -11,13 +11,7 @@ redirect_from:
 
 
 
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
-
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
-
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+Bio: Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at Microsoft Research AI in the Adaptive Systems and Interaction Group. She also designed and taught the first offering for the new course sequence EECS16A and EECS16B in the EECS department at UC Berkeley and received the 2017 UC Berkeley Electrical Engineering Award for Outstanding Teaching. She was also awarded the 2020 UC Berkeley award for Extraordinary Teaching in Extraordinary Times. Prof. Ranade received her PhD in Electrical Engineering and Computer Science from the University of California, Berkeley, and her undergraduate degree from MIT in Cambridge, MA.
 
 # Selected Experience
 
