@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Assistant Teaching Professor in EECS at UC Berkeley"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Bio: Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at Microsoft Research AI in the Adaptive Systems and Interaction Group. She also designed and taught the first offering for the new course sequence EECS16A and EECS16B in the EECS department at UC Berkeley and received the 2017 UC Berkeley Electrical Engineering Award for Outstanding Teaching. She was also awarded the 2020 UC Berkeley award for Extraordinary Teaching in Extraordinary Times. Prof. Ranade received her PhD in Electrical Engineering and Computer Science from the University of California, Berkeley, and her undergraduate degree from MIT in Cambridge, MA.
+Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at Microsoft Research AI in the Adaptive Systems and Interaction Group. She also designed and taught the first offering for the new course sequence EECS16A and EECS16B in the EECS department at UC Berkeley and received the 2017 UC Berkeley Electrical Engineering Award for Outstanding Teaching. She was also awarded the 2020 UC Berkeley award for Extraordinary Teaching in Extraordinary Times. Prof. Ranade received her PhD in Electrical Engineering and Computer Science from the University of California, Berkeley, and her undergraduate degree from MIT in Cambridge, MA.
 
 # Selected Experience
 
