@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
   email            : "ranade@eecs.berkeley.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,20 +100,20 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/gireejaranade?original_referer=https%3A%2F%2Fwww.google.com%2F"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : 
   wikipedia        :
 
 
