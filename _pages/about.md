@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "Assistant Teaching Professor in EECS at UC Berkeley"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
