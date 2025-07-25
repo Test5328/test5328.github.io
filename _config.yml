@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "Gireeja Ranade"
   avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
-  location         : "Berlin/ Darmstadt, Germany"
+  bio              : "EECS"
+  location         : "565 Cory Hall, Berkeley CA 94720"
   employer         : "TU Darmstadt"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "boris.meinardus00@gmail.com"
+  email            : "ranade@eecs.berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
