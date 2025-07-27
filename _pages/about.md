@@ -13,27 +13,22 @@ redirect_from:
 
 Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at Microsoft Research AI in the Adaptive Systems and Interaction Group. She also designed and taught the first offering for the new course sequence EECS16A and EECS16B in the EECS department at UC Berkeley and received the 2017 UC Berkeley Electrical Engineering Award for Outstanding Teaching. She was also awarded the 2020 UC Berkeley award for Extraordinary Teaching in Extraordinary Times. Prof. Ranade received her PhD in Electrical Engineering and Computer Science from the University of California, Berkeley, and her undergraduate degree from MIT in Cambridge, MA.
 
-# Selected Experience
+# Additional Information
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+-I'm one of the co-chairs of the Women in Information Theory (WITHITS), come to one of our events!
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+-As a graduate student I was heavily involved with the Electrical Engineering Graduate Student Association (EEGSA) and Women in Computer Science and Engineering (WICSE) at Berkeley. I also co-founded EECSPeers, a peer-support community. Working with these organizations was one of the highlights of my graduate experience , do get involved if you can.
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+-In 2009, I was one of the first instructors at the Meltwater Entreprenurial School of Technology in Accra, Ghana where I designed and taught introductory computer science classes.
+
+-Consider teaching with the Prison University Project if you are in the Bay Area, I had a very impactful and fun experience teaching here when I was a graduate student.
 
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
-## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+-As an undergrad at MIT, I had a ton of fun being involved in Dramashop (Our Town, Imperceptible Mutabilities in the Third Kingdom), The Tech (my article about the blaster worm made it to Slashdot, before I even knew what Slashdot was), and doing research in the Computational Physiology and Clinical Inference Group.
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+-I owe a lot to M. Prakash Sir and the Bhaskaracharya Pratishthan in Pune, India for helping me see the beauty of mathematics. Thank you to him and so many more of my teachers who helped me become who I am.
 
 
 
