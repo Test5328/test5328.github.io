@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "GTA"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2014-03-01
+location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a graduate student, I was also heavily involved in teaching multiple courses.
 
-Heading 1
-======
+[CS 70: Discrete Math and Probability
+Guest lecturer, approx. 500 student lower division class
+UC Berkeley, Spring 2014, Fall 2014.](https://inst.eecs.berkeley.edu/~cs70/sp14)
 
-Heading 2
-======
+[EE 126: Probability and Random Processes
+Graduate Student Instructor
+UC Berkeley, Fall 2012](https://inst.eecs.berkeley.edu/~ee126/fa12)
 
-Heading 3
-======
+[EE 229A: Information Theory and Coding
+Guest Lecturer
+UC Berkeley, Fall 2014](https://inst.eecs.berkeley.edu/~ee229/archives.html)
