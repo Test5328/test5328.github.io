@@ -1,9 +1,9 @@
 ---
-title: "Undergraduate"
+title: "Course Designed"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "UC Berkeley, EECS"
 date: 2018-08-23
 location: "Berkeley, CA"
 ---
