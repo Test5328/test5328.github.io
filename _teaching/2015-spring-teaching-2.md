@@ -3,7 +3,7 @@ title: "GTA"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "UC Berkeyly, EECS"
 date: 2014-03-01
 location: "Berkeley, CA"
 ---
