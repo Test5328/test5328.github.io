@@ -1,7 +1,15 @@
 ---
-title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
+title: "Group"
+excerpt: "I've been very lucky to work with and learn from an amazing group of students."
 collection: portfolio
 ---
-
-In this project I implemented the [Reward Constrained Policy Optimization Paper](https://openreview.net/pdf?id=SkfrvsA9FX) by Tessler et al. into stable-baselines3 implementation of PPO. Additionally, I reproduced the original results by tracking my experiments using weights and biases. The code for this project can be found [here](https://github.com/sudo-Boris/stable-baselines3). I also wrote an article elaborating on the theory of RCPO and my results and submitted it to the ICLR Blogposts Track! You can fin the article [here](https://iclr-blogposts.github.io/staging/blog/2023/Adaptive-Reward-Penalty-in-Safe-Reinforcement-Learning/)
+Current group
+- [Vignesh Subramanian](https://people.eecs.berkeley.edu/~vignesh.subramanian/) (PhD candidate, UC Berkeley)
+- Moses Won (MS candidate 2021, UC Berkeley)
+- [Ana Tudor](https://www.linkedin.com/in/ana-tudor) (MS candidate 2021, UC Berkeley)
+- [Rahul Arya](https://www.linkedin.com/in/rahul-arya) (Undergraduate 2021, UC Berkeley) Honorable Mention, CRA Undergraduate Research Competition 2021
+- [Neelesh Ramachandran](https://www.neeleshramachandran.com/) (Undergraduate 2021, UC Berkeley)
+- [Sumer Kohli](https://www.linkedin.com/in/sumerkohli) (Undergraduate 2021, UC Berkeley)
+- [Catherine Huang](https://thecatherinehuang.github.io/) (Undergraduate 2021, UC Berkeley)
+- [Alicia Matsumoto](https://www.linkedin.com/in/aliciamatsumoto) (Undergraduate 2022, UC Berkeley)
+- [Bridget Agyare](https://www.linkedin.com/in/bridgetagyare119) (Undergraduate 2023, UC Berkeley)
