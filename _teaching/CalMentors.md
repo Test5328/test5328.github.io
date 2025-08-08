@@ -1,7 +1,7 @@
 ---
 title: "CalMentors"
 collection: teaching
-type: "Undergraduate course"
+type: "Tutoring Program"
 permalink: /teaching/CalMentors
 date: 2020-03-30
 location: "Berkeley, CA"
