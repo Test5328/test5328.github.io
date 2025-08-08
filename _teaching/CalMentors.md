@@ -1,7 +1,5 @@
 ---
 title: "CalMentors"
-excerpt: 
-collection: 
 ---
 School closures around the country during the COVID-19 pandemic have a negative impact on student learning and disproportionately impact those with fewer resources. It is important that we mitigate the impact of these closures, these have long-term impacts on the STEM pipeline.
 
