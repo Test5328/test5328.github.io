@@ -3,7 +3,6 @@ title: "Alumni"
 excerpt: ""
 collection: 
 ---
-Alumni
 - [Gloria Tumushabe](https://www.linkedin.com/in/gloria-tumushabe) (MS 2020, UC Berkeley) Now: Salesforce.
 - Helen Yang, Akhil Jalan, Simon Zhuang (UC Berkeley Undergraduates)
 - Janny Zhang, Jemma Wu, Shaan Appel, Aarash Heydari, Vinay Koshy, Sahil Sancheti, Ryan Yang (UC Berkeley Undergraduates)
