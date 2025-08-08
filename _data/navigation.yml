@@ -8,7 +8,10 @@ main:
     url: /talks/    
 
   - title: "Group"
-    url: /portfolio/    
+    url: /portfolio/ 
+    
+  - title: "CalMentors"
+    url: /publications/     
     
 #   - title: "Guide"
 #     url: /markdown/
