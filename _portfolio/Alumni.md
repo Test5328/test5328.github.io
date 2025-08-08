@@ -1,15 +1,16 @@
 ---
-title: "Group"
-excerpt: "I've been very lucky to work with and learn from an amazing group of students."
+title: "Alumni"
+excerpt: ""
 collection: 
 ---
-Current group
-- [Vignesh Subramanian](https://people.eecs.berkeley.edu/~vignesh.subramanian/) (PhD candidate, UC Berkeley)
-- Moses Won (MS candidate 2021, UC Berkeley)
-- [Ana Tudor](https://www.linkedin.com/in/ana-tudor) (MS candidate 2021, UC Berkeley)
-- [Rahul Arya](https://www.linkedin.com/in/rahul-arya) (Undergraduate 2021, UC Berkeley) Honorable Mention, CRA Undergraduate Research Competition 2021
-- [Neelesh Ramachandran](https://www.neeleshramachandran.com/) (Undergraduate 2021, UC Berkeley)
-- [Sumer Kohli](https://www.linkedin.com/in/sumerkohli) (Undergraduate 2021, UC Berkeley)
-- [Catherine Huang](https://thecatherinehuang.github.io/) (Undergraduate 2021, UC Berkeley)
-- [Alicia Matsumoto](https://www.linkedin.com/in/aliciamatsumoto) (Undergraduate 2022, UC Berkeley)
-- [Bridget Agyare](https://www.linkedin.com/in/bridgetagyare119) (Undergraduate 2023, UC Berkeley)
+Alumni
+- [Gloria Tumushabe](https://www.linkedin.com/in/gloria-tumushabe) (MS 2020, UC Berkeley) Now: Salesforce.
+- Helen Yang, Akhil Jalan, Simon Zhuang (UC Berkeley Undergraduates)
+- Janny Zhang, Jemma Wu, Shaan Appel, Aarash Heydari, Vinay Koshy, Sahil Sancheti, Ryan Yang (UC Berkeley Undergraduates)
+- Alexander Spangher (MSR Intern). Now: PhD candidate at USC
+- Brian Axelrod (MSR Intern). Now: PhD candidate at Stanford
+- [Vasuki Narasimha Swamy](https://people.eecs.berkeley.edu/~vasuki/) (UC Berkeley PhD) Now: Intel Research. Marconi Scholar.
+- [Ena Hariyoshi](https://soihub.org/about/participants/alumni/ena-hariyoshi.html) (UC Berkeley Undergrad) Now: Google, via MIT grad school. Center for Science of Information Scholar while at UC Berkeley.
+- [Leah Dickstein](http://www.leahdickstein.com/) (UC Berkeley Undergrad) Now: Facebook
+- [Govind Ramnarayan](https://www.linkedin.com/in/govind-ramnarayan-265a439b) (UC Berkeley Undergrad) Now: Finished PhD at MIT, now at Neural Magic PhD candidate
+- [Sahaana Suri](https://stanford.edu/~sahaana/) (UC Berkeley Undergrad) Now: Defending PhD at Stanford. Finalist, CRA Undergraduate Research Competition (2015)
