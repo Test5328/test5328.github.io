@@ -1,15 +1,8 @@
 ---
-title: "Group"
-excerpt: "I've been very lucky to work with and learn from an amazing group of students."
+title: "CalMentors"
+excerpt: ""
 collection: 
 ---
-Current group
-- [Vignesh Subramanian](https://people.eecs.berkeley.edu/~vignesh.subramanian/) (PhD candidate, UC Berkeley)
-- Moses Won (MS candidate 2021, UC Berkeley)
-- [Ana Tudor](https://www.linkedin.com/in/ana-tudor) (MS candidate 2021, UC Berkeley)
-- [Rahul Arya](https://www.linkedin.com/in/rahul-arya) (Undergraduate 2021, UC Berkeley) Honorable Mention, CRA Undergraduate Research Competition 2021
-- [Neelesh Ramachandran](https://www.neeleshramachandran.com/) (Undergraduate 2021, UC Berkeley)
-- [Sumer Kohli](https://www.linkedin.com/in/sumerkohli) (Undergraduate 2021, UC Berkeley)
-- [Catherine Huang](https://thecatherinehuang.github.io/) (Undergraduate 2021, UC Berkeley)
-- [Alicia Matsumoto](https://www.linkedin.com/in/aliciamatsumoto) (Undergraduate 2022, UC Berkeley)
-- [Bridget Agyare](https://www.linkedin.com/in/bridgetagyare119) (Undergraduate 2023, UC Berkeley)
+School closures around the country during the COVID-19 pandemic have a negative impact on student learning and disproportionately impact those with fewer resources. It is important that we mitigate the impact of these closures, these have long-term impacts on the STEM pipeline.
+
+CalMentors is a tutoring program we started which aims to help students navigate distance learning. UC Berkeley undergraduates will be matched with high-school and middle-school students and teachers to provide small group tutoring for students who might not have a parent or other adult at home who can help them with their schoolwork. See more at: https://sites.google.com/view/calmentors/
