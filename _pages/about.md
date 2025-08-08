@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at Microsoft Research AI in the Adaptive Systems and Interaction Group. She also designed and taught the first offering for the new course sequence EECS16A and EECS16B in the EECS department at UC Berkeley and received the 2017 UC Berkeley Electrical Engineering Award for Outstanding Teaching. She was also awarded the 2020 UC Berkeley award for Extraordinary Teaching in Extraordinary Times. Prof. Ranade received her PhD in Electrical Engineering and Computer Science from the University of California, Berkeley, and her undergraduate degree from MIT in Cambridge, MA.
+Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at [Microsoft Research AI](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/) in the [Adaptive Systems and Interaction Group](https://www.microsoft.com/en-us/research/group/adaptive-systems-and-interaction/). She also designed and taught the first offering for the new course sequence [EECS16A](https://inst.eecs.berkeley.edu/~ee16a/sp15) and [EECS16B](https://inst.eecs.berkeley.edu/~ee16b/fa15) in the EECS department at UC Berkeley and received the 2017 UC Berkeley Electrical Engineering Award for Outstanding Teaching. She was also awarded the 2020 UC Berkeley award for Extraordinary Teaching in Extraordinary Times. Prof. Ranade received her PhD in [Electrical Engineering and Computer Science](http://eecs.berkeley.edu/) from the [University of California, Berkeley](http://berkeley.edu/), and her undergraduate degree from [MIT](http://web.mit.edu/) in Cambridge, MA.
 
 # Additional Information
 
