@@ -16,7 +16,7 @@ Before joining the faculty at UC Berkeley, Prof. Ranade was a Researcher at [Mic
 # Additional Information
 
 
--I'm one of the co-chairs of the [Women in Information Theory (WITHITS)](https://www.itsoc.org/withits), come to one of our events!
+- I'm one of the co-chairs of the [Women in Information Theory (WITHITS)](https://www.itsoc.org/withits), come to one of our events!
 
 - As a graduate student I was heavily involved with the [Electrical Engineering Graduate Student Association (EEGSA)](http://www-inst.eecs.berkeley.edu/~eegsa/wiki/doku.php) and [Women in Computer Science and Engineering (WICSE)](http://inst.eecs.berkeley.edu/~wicse/) at Berkeley. I also co-founded [EECSPeers](http://eecs.berkeley.edu/eecs-peers/), a peer-support community. Working with these organizations was one of the highlights of my graduate experience , do get involved if you can.
 
