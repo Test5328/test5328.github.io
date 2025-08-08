@@ -1,15 +1,6 @@
----
-title: "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments"
-collection: publications
-permalink: /publication/2022-Arena-Bench
-excerpt: 'The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results.'
-date: 2022-10-01
-venue: 'Robotics and Automation Letters (RA-L)'
-paperurl: 'https://arxiv.org/abs/2206.05728'
-citation: 'L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.'
----
-The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results. The code is publicly available at [this http URL](https://github.com/ignc-research/arena-bench).
 
-[Download paper here](https://arxiv.org/abs/2206.05728)
+[CalMentors](https://sites.google.com/view/calmentors/)
+School closures around the country during the COVID-19 pandemic have a negative impact on student learning and disproportionately impact those with fewer resources. It is important that we mitigate the impact of these closures, these have long-term impacts on the STEM pipeline.
 
-Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
+CalMentors is a tutoring program we started which aims to help students navigate distance learning. UC Berkeley undergraduates will be matched with high-school and middle-school students and teachers to provide small group tutoring for students who might not have a parent or other adult at home who can help them with their schoolwork. See more at: 
+
