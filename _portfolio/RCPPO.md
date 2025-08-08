@@ -1,7 +1,7 @@
 ---
 title: "Group"
 excerpt: "I've been very lucky to work with and learn from an amazing group of students."
-collection: portfolio
+collection: 
 ---
 Current group
 - [Vignesh Subramanian](https://people.eecs.berkeley.edu/~vignesh.subramanian/) (PhD candidate, UC Berkeley)
