@@ -1,6 +1,11 @@
 ---
 title: "CalMentors"
 collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "UC Berkeley, EECS"
+date: 2018-08-23
+location: "Berkeley, CA"
 ---
 School closures around the country during the COVID-19 pandemic have a negative impact on student learning and disproportionately impact those with fewer resources. It is important that we mitigate the impact of these closures, these have long-term impacts on the STEM pipeline.
 
